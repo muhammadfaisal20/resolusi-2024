@@ -2,3 +2,4 @@ Resolusi-2024
 - Belajar Html, Css, Js dan frameworknya untuk menjadi Front End Web Developer
 - Membuat Portofolio
 - Mendapatkan pekerjaan sebagai Front End Web Developer
+- Memperdalam React
